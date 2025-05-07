@@ -1,6 +1,5 @@
 # Regular-Expression
 User Input Validation Script
-## Theory & Code Explanation
 
 This Python script collects and validates user inputs for Name, Date of Birth, Email ID, and Mobile Number using regular expressions (`re` module). Each field is validated against a specific pattern, and the program continues to prompt the user until valid input is entered. This is a simple and practical use case of regular expressions for input sanitization.
 
